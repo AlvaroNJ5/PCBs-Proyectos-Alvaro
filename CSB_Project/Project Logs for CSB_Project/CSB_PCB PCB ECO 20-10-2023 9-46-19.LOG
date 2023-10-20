@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=+5V Pin=IC1-10
+Removed Pin From Net: NetName=+5V Pin=IC1-31
+Removed Pin From Net: NetName=+5V Pin=IC1-61
+Removed Pin From Net: NetName=+5V Pin=IC1-80
+Removed Pin From Net: NetName=+5V Pin=R8-2
+Change Component Comment : Designator=R8 Old Comment=20K New Comment=10K
+Change component parameters: Designator = "R8" ("R8"); Footprint = "0603R"; UniqueID = "\ALFEPBOB" ("\ALFEPBOB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part number"; Value = "RC0603FR-1010KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found HDRV8W65P0X254_1X8_2010X249X945P
+Added Component: Designator=J12(PINHEADER2)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/901200128_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J13(PINHEADER2)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/901200128_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J14(02529031301)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://b2b.harting.com/files/download/PRD/PDF_DS/PDF_DS_02529031301_EN.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "HARTING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02529031301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "617-02529031301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/HARTING/02529031301?qs=pUKx8fyJudBResgWdfe%2F7g%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J11-2
+Add Pin To Net: Unknown Pin: Pin J11-3
+Add Pin To Net: Unknown Pin: Pin J11-5
+Added Pin To Net: NetName=+5V Pin=J13-2
+Added Pin To Net: NetName=NetC6_1 Pin=J14-1
+Added Pin To Net: NetName=NetC8_1 Pin=J14-2
+Added Pin To Net: NetName=GND Pin=J14-3
+Added Net: Name=+5V_PROG
+Added Pin To Net: NetName=+5V_uC Pin=IC1-10
+Added Pin To Net: NetName=+5V_uC Pin=IC1-31
+Added Pin To Net: NetName=+5V_uC Pin=IC1-61
+Added Pin To Net: NetName=+5V_uC Pin=IC1-80
+Added Pin To Net: NetName=+5V_uC Pin=J13-1
+Added Pin To Net: NetName=+5V_uC Pin=R8-1
+Added Net: Name=+5V_uC
+Added Pin To Net: NetName=DTR Pin=C3-2
+Added Net: Name=DTR
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=J12-2
+Added Pin To Net: NetName=NetC3_1 Pin=R8-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=RESET Pin=IC1-30
+Added Pin To Net: NetName=RESET Pin=J12-1
+Added Net: Name=RESET
+Added Member To Class: ClassName=uC_assembly Member=Component J5 5024430270
+Added Member To Class: ClassName=uC_assembly Member=Component J9 691321300004
+Add Class Member: Failed to add class member : Component J11 MOLEX,_C-GRID_III,_90120,_8_WAY,_1_ROW,_STRAIGHT_PIN_HEADER
+Added Member To Class: ClassName=uC_assembly Member=Component J12 PIN_HEADER_2
+Added Member To Class: ClassName=uC_assembly Member=Component J13 PIN_HEADER_2
+Added Member To Class: ClassName=Voltage_generation Member=Component J14 02529031301

@@ -1,0 +1,33 @@
+Change Component Comment : Designator=R5 Old Comment=10K New Comment=*
+Change component parameters: Designator = "R5" ("R5"); Footprint = "0603R"; UniqueID = "\FWJROOFQ" ("\FWJROOFQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(DIOM5436X244N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMBJ20A-E3/52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smbj20a-e352/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/88392/smbj.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.44mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMBJ20A-E3/52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "625-SMBJ20A-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SMBJ20A-E3-52?qs=%252BKsK5HlK7GGHijeGSDEfxQ%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 0603
+Added Component: Designator=U1(Fuse_1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "03540001ZXGY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/03540001zxgy/littelfuse?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuse_blocks/littelfuse_fuse_block_354_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "03540001ZXGY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-03540001ZXGY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/03540001ZXGY?qs=2VFNtWizgieffhgauIF6XA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Added Pin To Net: NetName=NetF1_1 Pin=U1-1
+Added Pin To Net: NetName=NetJ10_1 Pin=U1-2
+Added Member To Class: ClassName=Voltage_generation Member=Component D4 SMBJ20A-E3_52
+Add Class Member: Failed to add class member : Component R1 10K
+Added Member To Class: ClassName=Voltage_generation Member=Component U1 03540001ZXGY

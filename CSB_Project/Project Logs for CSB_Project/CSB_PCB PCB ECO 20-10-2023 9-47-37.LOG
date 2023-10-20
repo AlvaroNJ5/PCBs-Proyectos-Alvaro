@@ -1,0 +1,15 @@
+Added Component: Designator=J11(HDRV8W65P0X254_1X8_2010X249X945P - duplicate)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/901200128_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_PROG Pin=J11-1
+Added Pin To Net: NetName=RX1 Pin=J11-2
+Added Pin To Net: NetName=TX1 Pin=J11-3
+Added Pin To Net: NetName=DTR Pin=J11-4
+Added Pin To Net: NetName=GND Pin=J11-5
+Added Member To Class: ClassName=uC_assembly Member=Component J11 MOLEX,_C-GRID_III,_90120,_8_WAY,_1_ROW,_STRAIGHT_PIN_HEADER

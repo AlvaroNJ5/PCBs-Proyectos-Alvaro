@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SC4 Pin=IC1-19
+Removed Pin From Net: NetName=BK4 Pin=IC1-20
+Removed Pin From Net: NetName=SC5 Pin=IC1-21
+Removed Pin From Net: NetName=BK5 Pin=IC1-22
+Removed Pin From Net: NetName=SC6 Pin=IC1-23
+Removed Pin From Net: NetName=BK6 Pin=IC1-24
+Removed Pin From Net: NetName=SC7 Pin=IC1-25
+Removed Pin From Net: NetName=BK7 Pin=IC1-26
+Added Pin To Net: NetName=BK7 Pin=IC1-59
+Added Pin To Net: NetName=SC7 Pin=IC1-60
+Added Pin To Net: NetName=BK6 Pin=IC1-64
+Added Pin To Net: NetName=SC6 Pin=IC1-65
+Added Pin To Net: NetName=BK5 Pin=IC1-66
+Added Pin To Net: NetName=SC5 Pin=IC1-67
+Added Pin To Net: NetName=BK4 Pin=IC1-68
+Added Pin To Net: NetName=SC4 Pin=IC1-69

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RX1 Pin=J11-2
+Removed Pin From Net: NetName=TX1 Pin=J11-3
+Added Pin To Net: NetName=TX1 Pin=J11-2
+Added Pin To Net: NetName=RX1 Pin=J11-3
+Added Member To Class: ClassName=uC_assembly Member=Component IC1 ATMEGA2560-16AU

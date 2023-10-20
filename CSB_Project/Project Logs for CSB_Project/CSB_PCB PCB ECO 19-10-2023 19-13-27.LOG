@@ -1,0 +1,7 @@
+Added Component: Designator=R1(0603R)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part number"; Value = "RC0603FR-1010KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RX1 Pin=R1-1
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Member To Class: ClassName=uC_assembly Member=Component R1 10K

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Member From Class: ClassName=Voltage_generation Member=R10
+Added Pin To Net: NetName=PGND Pin=PS2-2
+Added Pin To Net: NetName=PGND Pin=RV2-1
