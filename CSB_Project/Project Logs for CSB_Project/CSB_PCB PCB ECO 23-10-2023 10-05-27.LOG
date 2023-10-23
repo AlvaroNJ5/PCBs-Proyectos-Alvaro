@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=PGND Pin=PS2-2
+Removed Pin From Net: NetName=GND Pin=PS2-3
+Removed Pin From Net: NetName=+12V Pin=PS2-4
+Change Component Footprint: Designator=PS2 Old Footprint=CONV_LD20-23B05R2 New Footprint=IRM6048
+Change Component Comment : Designator=PS2 Old Comment=LD20-23B12R2 New Comment=IRM-60-12
+Change component parameters: Designator = "PS2" ("PS2"); Footprint = "CONV_LD20-23B05R2"; UniqueID = "\WZBSVHUL" ("\WZBSVHUL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "IRM-60-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/irm-60-12/mean-well-enterprises?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.meanwell.com/Upload/PDF/IRM-60/IRM-60-SPEC.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "29mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Mean Well"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRM-60-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "709-IRM60-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/MEAN-WELL/IRM-60-12?qs=yID0DEbBT%252BlHwZTyc2lfhA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=PS2-1
+Added Pin To Net: NetName=GND Pin=PS2-2
+Added Pin To Net: NetName=PGND Pin=PS2-4
+Added Pin To Net: NetName=NetPS2_3 Pin=PS2-3
+Added Pin To Net: NetName=NetPS2_3 Pin=R12-1
+Added Net: Name=NetPS2_3

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\alvar\OneDrive\Escritorio\asignaturas_4_1C\Proyectos\PCBproyecto\PCB_Project\CSB_PCB.PcbDoc
-Date     : 20/10/2023
-Time     : 18:21:12
+PCB File : C:\Users\alvar\OneDrive\Escritorio\asignaturas_4_1C\Proyectos\PCBproyecto\CSB_Project\CSB_PCB.PcbDoc
+Date     : 23/10/2023
+Time     : 13:08:19
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -15,10 +15,13 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.154mm) (Max=0.4mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=0.254mm) (Max=5mm) (Preferred=0.254mm) (InNet('NetC10_2'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=5mm) (Max=6mm) (Preferred=5mm) (InNet('+12V'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.154mm) (Max=0.4mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.4mm) (Max=5mm) (Preferred=3mm) (InNet('+5V'))
@@ -51,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:06
+Time Elapsed        : 00:00:05

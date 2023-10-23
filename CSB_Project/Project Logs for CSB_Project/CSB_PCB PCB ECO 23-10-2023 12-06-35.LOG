@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=+12V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=NetPS2_1 Pin=R12-1
+Removed Member From Class: ClassName=Voltage_generation Member=R12
+Change Component Footprint: Designator=C8 Old Footprint=CAPPRD200W52D500H1250 New Footprint=1206C
+Change Component Comment : Designator=C9 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C8 Old Comment=10uF/25V New Comment=1uF
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAPPRD200W52D500H1250"; UniqueID = "\GUQVCOJS" ("\GUQVCOJS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part number"; Value = "CL31B105KCHSNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "1206C"; UniqueID = "\UDVIRJAO" ("\UDVIRJAO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part number"; Value = "CL31A106MBHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C907U102MYVDBA7317)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C907U102MYVDBA7317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c907u102myvdba7317/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1064_X1_400_VAC_Y2_250_VAC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C907U102MYVDBA7317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C907U102MYVDBAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C907U102MYVDBA7317?qs=gqcQgTT0fkjWEB%2FDOlQ0cA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C907U102MYVDBA7317)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C907U102MYVDBA7317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c907u102myvdba7317/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1064_X1_400_VAC_Y2_250_VAC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C907U102MYVDBA7317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C907U102MYVDBAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C907U102MYVDBA7317?qs=gqcQgTT0fkjWEB%2FDOlQ0cA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=PS3(FL2DZ5103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/1811091611_MORNSUN-Guangzhou-S-T-FL2D-Z5-103_C191603.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Mornsun Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FL2D-Z5-103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+12V Pin=C8-2
+Added Pin To Net: NetName=PGND Pin=C11-2
+Added Pin To Net: NetName=PGND Pin=PS3-2
+Added Pin To Net: NetName=PGND Pin=PS3-3
+Added Pin To Net: NetName=NetPS2_1 Pin=PS3-4
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=F2-2
+Added Pin To Net: NetName=NetC10_1 Pin=PS3-1
+Added Pin To Net: NetName=NetC10_1 Pin=RV2-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=C11-1
+Added Net: Name=NetC10_2
+Added Member To Class: ClassName=Voltage_generation Member=Component C10 1nF
+Added Member To Class: ClassName=Voltage_generation Member=Component C11 1nF
+Added Member To Class: ClassName=Voltage_generation Member=Component PS3 FL2D-Z5-103

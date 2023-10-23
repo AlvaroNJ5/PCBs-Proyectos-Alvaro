@@ -1,0 +1,16 @@
+Added Component: Designator=PS2(LD3023B12R2)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mornsun-power.com/html/pdf/LD30-23B12R2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "24.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Mornsun Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LD30-23B12R2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=PS2-2
+Added Pin To Net: NetName=+12V Pin=PS2-3
+Added Pin To Net: NetName=GND Pin=PS2-4
+Added Pin To Net: NetName=NetPS2_1 Pin=PS2-1
+Added Pin To Net: NetName=NetPS2_1 Pin=R12-1
+Added Net: Name=NetPS2_1
+Added Member To Class: ClassName=Voltage_generation Member=Component PS2 LD30-23B12R2
